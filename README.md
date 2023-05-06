@@ -6,9 +6,9 @@ Ce projet permet aux utilisateurs d'ajouter et de supprimer des produits de leur
 
 ## Prerequis
 ```bash
-1.	Assurez-vous d'avoir Python installé sur votre ordinateur.
+1.	Assurez-vous davoir Python installé sur votre ordinateur.
 2.	Créez un environnement virtuel en utilisant virtualenv.
-3.	Activez l'environnement virtuel.
+3.	Activez lenvironnement virtuel.
 ```
     
 ## Run Locally
